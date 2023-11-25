@@ -1,7 +1,7 @@
 # <strong>Hi there :wave: , I'm Ranny Febriana!</strong>
 Lifelong Learner, currently working Teacher in Vocational High School.
 
-### <summary><strong>Yosh!</strong></summary>
+### <strong>Yosh!</strong>
 <p>
 <!--     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
@@ -17,7 +17,7 @@ Lifelong Learner, currently working Teacher in Vocational High School.
 <p>
 
 
-### <summary><strong>Tools:</strong></summary>
+### <strong>Tools:</strong>
   <ul>
     <li> ⌨️ HTML</li>
     <li> 🌳 CSS</li>
@@ -25,7 +25,7 @@ Lifelong Learner, currently working Teacher in Vocational High School.
     <li> 🎲 PHP</li>
   </ul> 
  
-### <summary><strong>Let's connect!</strong></summary>
+### <strong>Let's connect!</strong>
 <a href="https://www.linkedin.com/in/ranny-febriana-076321117/">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
