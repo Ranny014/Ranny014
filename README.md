@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Ranny Febriana!</strong></summary>
+# <strong>Hi there :wave: , I'm Ranny Febriana!</strong>
 Lifelong Learner, currently working Teacher in Vocational High School.
 
 ### <summary><strong>Yosh!</strong></summary>
