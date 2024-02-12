@@ -23,6 +23,7 @@ Lifelong Learner, currently working Teacher in Vocational High School.
     <li> 🌳 CSS</li>
     <li> 🐛 Javascript</li>
     <li> 🎲 PHP</li>
+    <li> ✨ Python</li>
   </ul> 
  
 ### <strong>Let's connect!</strong>
