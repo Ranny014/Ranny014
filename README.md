@@ -1,5 +1,5 @@
 # <strong>Hi there :wave: , I'm Ranny Febriana!</strong>
-Lifelong Learner, currently working Teacher in Vocational High School.
+Lifelong Learner, currently interested on data-driven fields.
 
 ### <strong>Yosh!</strong>
 <p>
